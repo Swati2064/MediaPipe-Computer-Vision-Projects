@@ -155,6 +155,4 @@ GitHub: https://github.com/swati2064
 
 LinkedIn: https://www.linkedin.com/in/swati-jadhav-b759a6315
 
----
 
-## ⭐ If you found this project useful, don't forget to Star this repository!
