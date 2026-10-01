@@ -150,9 +150,3 @@ python "On-device, Real-time Body Pose Tracking with MediaPipe BlazePose.py"
 **Swati Jadhav**
 
 AI & Data Science Student
-
-GitHub: https://github.com/swati2064
-
-LinkedIn: https://www.linkedin.com/in/swati-jadhav-b759a6315
-
-
